@@ -1,0 +1,2831 @@
+{
+    "data": [
+        {
+            "custName": "\u7cbe\u62d3\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08",
+            "custLink": "http://www.fintek.com.tw",
+            "joblist": [
+                {
+                    "jobName": "\u3010\u7814\u767c\u66ff\u4ee3\u5f79\u3011\u6578\u4f4dIC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/4nvoy",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "10wkh3pc",
+            "job_count": 1
+        },
+        {
+            "custName": "\u83ef\u64ce\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u7cfb\u7d71\u6574\u5408\u670d\u52d9\u696d",
+            "indcat": "\u96fb\u8166\u53ca\u9031\u908a\u8a2d\u5099\u696d",
+            "custLink": "http://www.asrock.com/index.html",
+            "joblist": [],
+            "id": "10wkk4i0",
+            "job_count": 0
+        },
+        {
+            "custName": "\u745e\u9f0e\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08\u696d\uff1b \u534a\u5c0e\u9ad4\u76f8\u95dc\u696d",
+            "custLink": "http:// www.rad-ic.com",
+            "joblist": [
+                {
+                    "jobName": "111\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79-\u6578\u4f4d\u5de5\u7a0b\u5e2b(\u53f0\u5357)",
+                    "jobUrl": "//www.104.com.tw/job/73vf2",
+                    "jobAddrNoDesc": "\u53f0\u5357\u5e02\u4e2d\u897f\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "10zv3t2o",
+            "job_count": 1
+        },
+        {
+            "custName": "\u9d3b\u749f\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "\u63d0\u4f9b\u7db2\u8def\u5b89\u5168(\u9632\u75c5\u6bd2, \u9632\u99ed\u5ba2, \u7db2\u5740\u904e\u6ffe, \u61c9\u7528\u7a0b\u5f0f\u904e\u6ffe\u8207\u7ba1\u7406)\u8edf\u9ad4\u3001\u8cc7\u6599\u5eab\u8207\u5b89\u5168\u6676\u7247\u4e4b\u6574\u5408\u65b9\u6848\u3002",
+            "custLink": "https://www.lionic.com",
+            "joblist": [
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79_\u7db2\u8def\u5b89\u5168\u5206\u6790\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/6v78a",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79 - \u8edf\u9ad4\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/2qq8o",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u6f14\u7b97\u6cd5\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/4r3dn",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79_\u7db2\u8def\u6d41\u91cf\u5206\u6790\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/6v78g",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "110xrm0g",
+            "job_count": 4
+        },
+        {
+            "custName": "\u7acb\u7a4d\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "IC\u8a2d\u8a08",
+            "custLink": "http://www.richwave.com.tw",
+            "joblist": [],
+            "id": "112000xs",
+            "job_count": 0
+        },
+        {
+            "custName": "\u91d1\u5c6c\u4e2d\u5fc3_\u8ca1\u5718\u6cd5\u4eba\u91d1\u5c6c\u5de5\u696d\u7814\u7a76\u767c\u5c55\u4e2d\u5fc3",
+            "industryDesc": "\u5176\u4ed6\u91d1\u5c6c\u76f8\u95dc\u88fd\u9020\u696d",
+            "indcat": "\u7d9c\u5408\u5b78\u8853\u7814\u7a76\u53ca\u6280\u8853\u670d\u52d9\u696d",
+            "custLink": "http://www.mirdc.org.tw",
+            "joblist": [],
+            "id": "129muo8p",
+            "job_count": 0
+        },
+        {
+            "custName": "\u667a\u539f\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "IP/ASIC\u7814\u767c\u8a2d\u8a08\u670d\u52d9",
+            "custLink": "https://www.faraday-tech.com/tw/content/index",
+            "joblist": [],
+            "id": "12no6e8w",
+            "job_count": 0
+        },
+        {
+            "custName": "\u7fa9\u9686\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "IC\u8a2d\u8a08",
+            "custLink": "http://www.emc.com.tw",
+            "joblist": [],
+            "id": "12no9wsg",
+            "job_count": 0
+        },
+        {
+            "custName": "\u4e16\u754c\u5148\u9032\u7a4d\u9ad4\u96fb\u8def\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "\u534a\u5c0e\u9ad4\u76f8\u95dc\u696d",
+            "custLink": "http://www.vis.com.tw",
+            "joblist": [],
+            "id": "12nocs6o",
+            "job_count": 0
+        },
+        {
+            "custName": "\u667a\u6377\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u901a\u8a0a\u6a5f\u68b0\u5668\u6750\u76f8\u95dc\u696d",
+            "indcat": "\u7121\u7dda\u901a\u8a0a\u7522\u696d",
+            "custLink": "http://www.zcom.com.tw",
+            "joblist": [],
+            "id": "12nodurk",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5929\u923a\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08",
+            "custLink": "http://www.fitipower.com",
+            "joblist": [
+                {
+                    "jobName": "\u3010\u7814\u767c\u66ff\u4ee3\u5f79\u3011 -\u985e\u6bd4IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b (Power IC)",
+                    "jobUrl": "//www.104.com.tw/job/737l3",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "12nofszc",
+            "job_count": 1
+        },
+        {
+            "custName": "\u53cb\u9054\u5149\u96fb\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5149\u5b78\u5668\u6750\u88fd\u9020\u696d",
+            "indcat": "\u5149\u96fb\u696d",
+            "custLink": "http://AUO.com",
+            "joblist": [],
+            "id": "12nokxe8",
+            "job_count": 0
+        },
+        {
+            "custName": "\u6676\u5143\u5149\u96fb\u80a1\u4efd\u6709\u9650\u516c\u53f8(\u6676\u96fb)",
+            "industryDesc": "\u5149\u96fb\u7522\u696d",
+            "indcat": "\u5149\u96fb\u696d",
+            "custLink": "http://www.epistar.com/",
+            "joblist": [],
+            "id": "12nolyfk",
+            "job_count": 0
+        },
+        {
+            "custName": "\u6607\u967d\u570b\u969b\u534a\u5c0e\u9ad4\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "H-0\u534a\u5c0e\u9ad4\u76f8\u95dc\u696d",
+            "custLink": "http://www.psi.com.tw/",
+            "joblist": [
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u6ffa\u934d\u5de5\u7a0b\u5e2b-W321200",
+                    "jobUrl": "//www.104.com.tw/job/7copc",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u88fd\u7a0b(CMP)\u5de5\u7a0b\u5e2b-W521103",
+                    "jobUrl": "//www.104.com.tw/job/7g170",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u88fd\u7a0b(\u9ec3\u5149/\u8755\u523b)\u5de5\u7a0b\u5e2b-W521601",
+                    "jobUrl": "//www.104.com.tw/job/7cr7l",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u8f2a\u73ed\u8584\u5316\u8a2d\u5099\u5de5\u7a0b\u5e2b-W522200",
+                    "jobUrl": "//www.104.com.tw/job/7go58",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u6708\u85aa35,000~50,000\u5143"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u54c1\u4fdd\u5de5\u7a0b\u5e2b(QA)-W811200",
+                    "jobUrl": "//www.104.com.tw/job/7d9h4",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "12noo21s",
+            "job_count": 5
+        },
+        {
+            "custName": "\u806f\u8a60\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "\u534a\u5c0e\u9ad4\u76f8\u95dc\u696d",
+            "custLink": "http://www.novatek.com.tw",
+            "joblist": [
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u985e\u6bd4IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wh",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u6578\u4f4dIC\u8a2d\u8a08\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wg",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u6f14\u7b97\u6cd5\u958b\u767c\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wp",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u8edf\u97cc\u9ad4\u958b\u767c\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wo",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u786c\u9ad4\u958b\u767c\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wn",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011CAD\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wk",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011APR\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wi",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u985e\u6bd4IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b (\u53f0\u5357)",
+                    "jobUrl": "//www.104.com.tw/job/7p4ww",
+                    "jobAddrNoDesc": "\u53f0\u5357\u5e02\u6c38\u5eb7\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u6578\u4f4dIC\u8a2d\u8a08\u5de5\u7a0b\u5e2b (\u53f0\u5357)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wx",
+                    "jobAddrNoDesc": "\u53f0\u5357\u5e02\u6c38\u5eb7\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u786c\u9ad4\u958b\u767c\u5de5\u7a0b\u5e2b (\u53f0\u5357)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wu",
+                    "jobAddrNoDesc": "\u53f0\u5357\u5e02\u6c38\u5eb7\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011APR\u5de5\u7a0b\u5e2b (\u53f0\u5357)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wr",
+                    "jobAddrNoDesc": "\u53f0\u5357\u5e02\u6c38\u5eb7\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011APR\u5de5\u7a0b\u5e2b (\u53f0\u5317)",
+                    "jobUrl": "//www.104.com.tw/job/7p4w4",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u985e\u6bd4IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wh",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u6578\u4f4dIC\u8a2d\u8a08\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wg",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u6f14\u7b97\u6cd5\u958b\u767c\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wp",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u985e\u6bd4IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wh",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u6578\u4f4dIC\u8a2d\u8a08\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wg",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058\u3011\u6f14\u7b97\u6cd5\u958b\u767c\u5de5\u7a0b\u5e2b (\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/7p4wp",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "12nopku0",
+            "job_count": 18
+        },
+        {
+            "custName": "\u806f\u767c\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "custLink": "http://www.mediatek.com/",
+            "joblist": [],
+            "id": "12noppgo",
+            "job_count": 0
+        },
+        {
+            "custName": "\u7532\u5c1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u591a\u5a92\u9ad4\u76f8\u95dc\u696d",
+            "indcat": "\u591a\u5a92\u9ad4\u8edf\u9ad4\u7cfb\u7d71\u958b\u767c",
+            "custLink": "https://www.reallusion.com",
+            "joblist": [
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79-\u8edf\u9ad4\u5de5\u7a0b\u5e2b(Software Engineer)",
+                    "jobUrl": "//www.104.com.tw/job/274jy",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u65b0\u5e97\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79 - \u7db2\u7ad9\u524d\u7aef\u5de5\u7a0b\u5e2b ( Frontend Engineer )",
+                    "jobUrl": "//www.104.com.tw/job/54uib",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u65b0\u5e97\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79 - \u7db2\u7ad9\u5f8c\u7aef\u5de5\u7a0b\u5e2b ( Backend Engineer )",
+                    "jobUrl": "//www.104.com.tw/job/216lz",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u65b0\u5e97\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79 - Web Application \u5168\u7aef\u5de5\u7a0b\u5e2b ( Full Stack Engineer )",
+                    "jobUrl": "//www.104.com.tw/job/7g2dn",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u65b0\u5e97\u5340",
+                    "periodDesc": "1\u5e74\u4ee5\u4e0a",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79-\u8edf\u9ad4\u6e2c\u8a66\u5de5\u7a0b\u5e2b( Test Engineer)",
+                    "jobUrl": "//www.104.com.tw/job/5q8ys",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u65b0\u5e97\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u6708\u85aa30,000~50,000\u5143"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79-\u6280\u8853\u8996\u89ba\u8a2d\u8a08(Technical Artist)",
+                    "jobUrl": "//www.104.com.tw/job/3k86o",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u65b0\u5e97\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u6708\u85aa30,000~50,000\u5143"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79-\u6559\u5b78\u5f71\u7247\u88fd\u4f5c(Tutorial Video Editor)",
+                    "jobUrl": "//www.104.com.tw/job/7pvcz",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u65b0\u5e97\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5c08\u79d1",
+                    "jobTags": [
+                        "\u6708\u85aa30,000~50,000\u5143"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79-\u5716\u5b78\u5de5\u7a0b\u5e2b(Graphics Engineer)",
+                    "jobUrl": "//www.104.com.tw/job/7pvdb",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u65b0\u5e97\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79-\u5168\u7403\u6280\u8853\u652f\u63f4\u5de5\u7a0b\u5e2b (Technical Support Engineer)",
+                    "jobUrl": "//www.104.com.tw/job/7c7rr",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u65b0\u5e97\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u6708\u85aa30,000~50,000\u5143"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79-\u3010Innovation Development\u3011\u6280\u8853\u8996\u89ba\u8a2d\u8a08 (Technical Artist)",
+                    "jobUrl": "//www.104.com.tw/job/7pykv",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u65b0\u5e97\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "12swdh0w",
+            "job_count": 10
+        },
+        {
+            "custName": "\u5f69\u5bcc\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u901a\u8a0a\u6a5f\u68b0\u5668\u6750\u76f8\u95dc\u696d",
+            "indcat": "\u7db2\u8def\u8996\u983b\u7522\u54c1/\u6a5f\u5668\u8996\u89ba\u7522\u54c1/\u81ea\u52d5\u5149\u5b78\u6aa2\u6e2c\u7cfb\u7d71",
+            "custLink": "http://www.dynacolor.com.tw",
+            "joblist": [
+                {
+                    "jobName": "\u786c\u9ad4\u5de5\u7a0b\u5e2b-\u7814\u767c\u66ff\u4ee3\u5f79",
+                    "jobUrl": "//www.104.com.tw/job/3l82q",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u8edf\u9ad4\u5de5\u7a0b\u5e2b-\u7814\u767c\u66ff\u4ee3\u5f79",
+                    "jobUrl": "//www.104.com.tw/job/3l83g",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u6a5f\u68b0/\u69cb \u5de5\u7a0b\u5e2b-\u7814\u767c\u66ff\u4ee3\u5f79",
+                    "jobUrl": "//www.104.com.tw/job/3w6is",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "13kvx5w0",
+            "job_count": 3
+        },
+        {
+            "custName": "\u8499\u606c\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8cc7\u8a0a\u696d",
+            "custLink": "http://www.penpower.com.tw",
+            "joblist": [
+                {
+                    "jobName": "\u6838\u5fc3\u6280\u8853\u7814\u7a76\u54e1(\u7814\u767c\u66ff\u4ee3\u5f79)",
+                    "jobUrl": "//www.104.com.tw/job/30ium",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7db2\u8def\u524d\u5f8c\u7aef\u8edf\u9ad4\u7814\u767c\u5de5\u7a0b\u5e2b(\u7814\u767c\u66ff\u4ee3\u5f79)",
+                    "jobUrl": "//www.104.com.tw/job/7evkh",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "13n1ijm8",
+            "job_count": 2
+        },
+        {
+            "custName": "\u77fd\u5275\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08",
+            "custLink": "https://www.sitronix.com.tw/",
+            "joblist": [
+                {
+                    "jobName": "(\u53f0\u5317)111\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79-\u985e\u6bd4IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/6tyu6",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "13ufx7i8",
+            "job_count": 1
+        },
+        {
+            "custName": "\u5357\u4e9e\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "custLink": "http://www.nanya.com",
+            "joblist": [
+                {
+                    "jobName": "(\u7814\u767c\u66ff\u4ee3\u5f79-IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b)",
+                    "jobUrl": "//www.104.com.tw/job/305if",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u6cf0\u5c71\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "(\u7814\u767c\u66ff\u4ee3\u5f79-\u88fd\u7a0b\u6280\u8853\u958b\u767c\u5de5\u7a0b\u5e2b)",
+                    "jobUrl": "//www.104.com.tw/job/389xw",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u6cf0\u5c71\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u6708\u85aa49,000~61,000\u5143"
+                    ]
+                },
+                {
+                    "jobName": "(\u7814\u767c\u66ff\u4ee3\u5f79-\u5148\u9032\u9ec3\u5149\u88fd\u7a0b\u958b\u767c\u5de5\u7a0b\u5e2b)",
+                    "jobUrl": "//www.104.com.tw/job/3pemd",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u6cf0\u5c71\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u535a\u58eb",
+                    "jobTags": [
+                        "\u6708\u85aa49,000~61,000\u5143"
+                    ]
+                },
+                {
+                    "jobName": "(\u7814\u767c\u66ff\u4ee3\u5f79-\u5148\u9032\u8755\u523b\u88fd\u7a0b\u958b\u767c\u5de5\u7a0b\u5e2b)",
+                    "jobUrl": "//www.104.com.tw/job/39xp3",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u6cf0\u5c71\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u535a\u58eb",
+                    "jobTags": [
+                        "\u6708\u85aa49,000~61,000\u5143"
+                    ]
+                }
+            ],
+            "id": "152cvzls",
+            "job_count": 4
+        },
+        {
+            "custName": "\u5b87\u5cfb\u5967\u6c40\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8edf\u9ad4\u76f8\u95dc\u696d/\u904a\u6232\u76f8\u95dc\u7522\u696d",
+            "custLink": "https://www.userjoy.com.tw/",
+            "joblist": [
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79-\u904a\u6232\u7a0b\u5f0f\u8a2d\u8a08\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/46htn",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u4e2d\u548c\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u6708\u85aa40,000~50,000\u5143"
+                    ]
+                }
+            ],
+            "id": "154in7zc",
+            "job_count": 1
+        },
+        {
+            "custName": "\u79d1\u76db\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8edf\u9ad4\u8cc7\u8a0a\u66a8\u6280\u8853\u670d\u52d9\u696d",
+            "custLink": "https://www.moldex3d.com",
+            "joblist": [],
+            "id": "1569whgo",
+            "job_count": 0
+        },
+        {
+            "custName": "\u8ca1\u5718\u6cd5\u4eba\u570b\u5bb6\u885b\u751f\u7814\u7a76\u9662",
+            "industryDesc": "\u5176\u4ed6\u6559\u80b2\u670d\u52d9\u696d",
+            "indcat": "\u5b78\u8853\u7814\u7a76\u53ca\u670d\u52d9\u696d",
+            "custLink": "",
+            "joblist": [],
+            "id": "169tvn88",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5b87\u532f\u77e5\u8b58\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "B20 \u8edf\u9ad4\u76f8\u95dc\u696d",
+            "custLink": "https://www.bridgewell.com",
+            "joblist": [],
+            "id": "18rbx5fk",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5275\u60df\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08(IC Design House)",
+            "custLink": "http://www.genesyslogic.com",
+            "joblist": [],
+            "id": "18rejv5k",
+            "job_count": 0
+        },
+        {
+            "custName": "\u6167\u69ae\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8_SMI",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08/\u96fb\u5b50\u76f8\u95dc",
+            "custLink": "https://www.siliconmotion.com/cht",
+            "joblist": [],
+            "id": "18rhl2hc",
+            "job_count": 0
+        },
+        {
+            "custName": "\u8208\u8aa0\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8edf\u9ad4\u81ea\u52d5\u5316(\u6a5f\u68b0)",
+            "custLink": "http://www.elogic.com.tw",
+            "joblist": [],
+            "id": "18ryzzxc",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5de5\u7814\u9662 _\u8ca1\u5718\u6cd5\u4eba\u5de5\u696d\u6280\u8853\u7814\u7a76\u9662",
+            "industryDesc": "\u5176\u4ed6\u5c08\u696d\uff0f\u79d1\u5b78\u53ca\u6280\u8853\u696d",
+            "indcat": "\u5de5\u5546\u9867\u554f",
+            "custLink": "https://www.itri.org/",
+            "joblist": [
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u6a5f\u68b0\u5de5\u7a0b\u5e2b(C500)",
+                    "jobUrl": "//www.104.com.tw/job/724no",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u81ea\u99d5\u8eca\u611f\u77e5\u7cfb\u7d71\u5de5\u7a0b\u5e2b(D300)",
+                    "jobUrl": "//www.104.com.tw/job/724sd",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u81ea\u99d5\u8eca\u8eca\u8f1b\u52d5\u614b\u63a7\u5236\u5de5\u7a0b\u5e2b(D300)",
+                    "jobUrl": "//www.104.com.tw/job/724se",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u81ea\u99d5\u8eca\u5c0e\u822a\u8207\u5b9a\u4f4d\u5de5\u7a0b\u5e2b(D300)",
+                    "jobUrl": "//www.104.com.tw/job/724sf",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79_\u5de5\u7814\u9662\u667a\u6167\u6a5f\u68b0\u4e2d\u5fc3_\u6578\u4f4d\u88fd\u9020\u6574\u5408\u5de5\u7a0b\u5e2b(0D200)",
+                    "jobUrl": "//www.104.com.tw/job/7di8z",
+                    "jobAddrNoDesc": "\u5357\u6295\u7e23\u5357\u6295\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u786c\u9ad4\u5de5\u7a0b\u5e2b(R100)",
+                    "jobUrl": "//www.104.com.tw/job/7ejc0",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u8edf\u9ad4\u5de5\u7a0b\u5e2b(R100)",
+                    "jobUrl": "//www.104.com.tw/job/7ejce",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u6a5f\u69cb\u5de5\u7a0b\u5e2b(M300)",
+                    "jobUrl": "//www.104.com.tw/job/7ejcv",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79(\u53ef\u7533\u8acb\u9810\u8058)-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u8edf\u9ad4\u5de5\u7a0b\u5e2b(E100)",
+                    "jobUrl": "//www.104.com.tw/job/5oa15",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79(\u53ef\u7533\u8acb\u9810\u8058)-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u96fb\u6a5f\u63a7\u5236\u5de5\u7a0b\u5e2b(E200)",
+                    "jobUrl": "//www.104.com.tw/job/4l0q5",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79(\u53ef\u7533\u8acb\u9810\u8058)-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u7121\u4eba\u6a5f\u7cfb\u7d71\u5de5\u7a0b\u5e2b(E300)",
+                    "jobUrl": "//www.104.com.tw/job/724sr",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79(\u53ef\u7533\u8acb\u9810\u8058)-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u81ea\u99d5\u8eca\u8edf\u9ad4\u7814\u767c\u5de5\u7a0b\u5e2b(D300)",
+                    "jobUrl": "//www.104.com.tw/job/73xqh",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79(\u53ef\u7533\u8acb\u9810\u8058)-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u96fb\u52d5\u8eca\u8eca\u7528\u52d5\u529b\u8207\u96fb\u529b\u8f49\u63db\u5668\u63a7\u5236\u5de5\u7a0b\u5e2b(D400)",
+                    "jobUrl": "//www.104.com.tw/job/7erup",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79(\u53ef\u7533\u8acb\u9810\u8058)-\u5de5\u7814\u9662\u6a5f\u68b0\u6240-\u96fb\u52d5\u8eca\u8eca\u7528\u8edf\u9ad4\u5de5\u7a0b\u5e2b(D400)",
+                    "jobUrl": "//www.104.com.tw/job/7ery1",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79_\u5de5\u7814\u9662\u670d\u79d1\u4e2d\u5fc3_\u8cc7\u8a0a\u7cfb\u7d71\u7814\u767c\u5de5\u7a0b\u5e2b(H100/H200)",
+                    "jobUrl": "//www.104.com.tw/job/7flji",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "19huomw",
+            "job_count": 15
+        },
+        {
+            "custName": "\u8aa0\u96f2\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u96f2\u7aef\u7522\u696d\u8edf\u786c\u9ad4\u958b\u767c\u8207\u7d50\u5408\u53ca\u96f2\u7aef\u8cc7\u6599\u904b\u7b97\u8655\u7406\u5206\u6790",
+            "custLink": "http://ct-cloud.com/",
+            "joblist": [
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u61c9\u7528\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/74oo9",
+                    "jobAddrNoDesc": "\u53f0\u4e2d\u5e02\u897f\u5c6f\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u61c9\u7528\u5de5\u7a0b\u5e2b(\u53f0\u5357\u8fa6\u516c\u5ba4)",
+                    "jobUrl": "//www.104.com.tw/job/7puui",
+                    "jobAddrNoDesc": "\u53f0\u5357\u5e02\u4e2d\u897f\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "1a2x6bi9dw",
+            "job_count": 2
+        },
+        {
+            "custName": "\u4f0a\u96f2\u8c37\u6578\u4f4d\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u7db2\u969b\u7db2\u8def\u76f8\u95dc\u696d",
+            "indcat": "\u96f2\u7aef\u904b\u7b97\u670d\u52d9\u5c08\u5bb6",
+            "custLink": "https://www.ecloudvalley.com",
+            "joblist": [],
+            "id": "1a2x6bilhz",
+            "job_count": 0
+        },
+        {
+            "custName": "\u65b0\u52a0\u5761\u5546\u9226\u5766\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8\u53f0\u7063\u5206\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u958b\u767c\u8207\u7dad\u8b77\u5927\u578b\u8de8\u570b\u7db2\u7ad9",
+            "custLink": "http://www.titansoft.com/tw/",
+            "joblist": [],
+            "id": "1a2x6bin60",
+            "job_count": 0
+        },
+        {
+            "custName": "\u6046\u52c1\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5176\u4ed6\u534a\u5c0e\u9ad4\u76f8\u95dc\u696d",
+            "indcat": "IC\u8f09\u677f\u88fd\u9020",
+            "custLink": "http://www.ppt.com.tw/",
+            "joblist": [],
+            "id": "1a2x6bippr",
+            "job_count": 0
+        },
+        {
+            "custName": "\u6c9b\u661f\u4e92\u52d5\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u591a\u5a92\u9ad4\u76f8\u95dc\u696d",
+            "indcat": "\u884c\u92b7\u8edf\u9ad4\u8cc7\u8a0a\u670d\u52d9\u696d",
+            "custLink": "http://www.appier.com/",
+            "joblist": [],
+            "id": "1a2x6biwai",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5b89\u83ef\u806f\u7db2\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8cc7\u5b89\u670d\u52d9\u8207\u7522\u54c1\u7814\u767c",
+            "custLink": "https://www.onwardsecurity.com/",
+            "joblist": [
+                {
+                    "jobName": "[111\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79]-\u8cc7\u5b89\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/6u154",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u65b0\u5e97\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u6708\u85aa40,000~50,000\u5143"
+                    ]
+                }
+            ],
+            "id": "1a2x6bizw6",
+            "job_count": 1
+        },
+        {
+            "custName": "\u5b9c\u773e\u8cc7\u8a0a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u7cfb\u7d71\u6574\u5408\u670d\u52d9\u696d",
+            "indcat": "\u96fb\u8166\u7cfb\u7d71\u6574\u5408\u670d\u52d9\u696d",
+            "custLink": "http://www.ezoominfo.com/",
+            "joblist": [],
+            "id": "1a2x6bj7kw",
+            "job_count": 0
+        },
+        {
+            "custName": "\u73a9\u7f8e\u79fb\u52d5\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5176\u5b83\u8edf\u9ad4\u53ca\u7db2\u8def\u76f8\u95dc\u696d",
+            "indcat": "\u884c\u52d5\u806f\u7db2",
+            "custLink": "http://www.perfectcorp.com/",
+            "joblist": [
+                {
+                    "jobName": "111\u5e74\u7814\u767c\u66ff\u4ee3\u5f79 - \u7814\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7476e",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u65b0\u5e97\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "1a2x6bjgwu",
+            "job_count": 1
+        },
+        {
+            "custName": "\u6c38\u64ce\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u53ca\u5176\u9031\u908a\u8a2d\u5099\u88fd\u9020\u696d",
+            "indcat": "\u96fb\u5b50\u901a\u8a0a\uff0f\u96fb\u8166\u9031\u908a\u96f6\u552e\u696d",
+            "custLink": "http://www.asrockrack.com",
+            "joblist": [],
+            "id": "1a2x6bjjxi",
+            "job_count": 0
+        },
+        {
+            "custName": "\u96f2\u84ee\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08\u696d",
+            "custLink": "http://www.maxiotek.com",
+            "joblist": [],
+            "id": "1a2x6bjnkc",
+            "job_count": 0
+        },
+        {
+            "custName": "\u7acb\u5275\u5149\u96fb\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5149\u96fb\u7522\u696d",
+            "indcat": "\u5149\u96fb\u7522\u696d",
+            "custLink": "http://www.litron.com.tw",
+            "joblist": [
+                {
+                    "jobName": "\u3010111\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011\u5149\u96fb\u61c9\u7528\u7814\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/6tkpp",
+                    "jobAddrNoDesc": "\u9ad8\u96c4\u5e02\u8def\u7af9\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u6708\u85aa35,000~60,000\u5143"
+                    ]
+                }
+            ],
+            "id": "1a2x6bjnn2",
+            "job_count": 1
+        },
+        {
+            "custName": "\u535a\u9060\u667a\u80fd\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "custLink": "https://www.bovicloud.com",
+            "joblist": [
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u96f2\u7aef\u7cfb\u7d71\u8edf\u9ad4\u7814\u767c\u5de5\u7a0b\u5e2b(Cloud System Software R&D Engineer)",
+                    "jobUrl": "//www.104.com.tw/job/58b9t",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u667a\u6167\u5f71\u50cf\u7cfb\u7d71\u7814\u767c\u5de5\u7a0b\u5e2b (Video Analystic System R&D Engineer)",
+                    "jobUrl": "//www.104.com.tw/job/58b7w",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "1a2x6bjow0",
+            "job_count": 2
+        },
+        {
+            "custName": "\u7098\u696d\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "custLink": "http://www.thinkyes.tw/",
+            "joblist": [],
+            "id": "1a2x6bjxnl",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5967\u7fa9\u667a\u6167\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8edf\u9ad4\u696d",
+            "custLink": "https://cycraft.com/zh-hant/",
+            "joblist": [],
+            "id": "1a2x6bk9u1",
+            "job_count": 0
+        },
+        {
+            "custName": "\u675c\u6d66\u6578\u4f4d\u5b89\u5168\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u5b50\u901a\u8a0a\u2571\u96fb\u8166\u9031\u908a\u96f6\u552e\u696d",
+            "indcat": "\u8cc7\u8a0a\u5b89\u5168\u8edf\u9ad4\u958b\u767c",
+            "custLink": "https://teamt5.org/",
+            "joblist": [
+                {
+                    "jobName": "\u3010\u7814\u767c\u66ff\u4ee3\u5f79\u3011\u8edf\u9ad4\u5de5\u7a0b\u5e2b\u3001DevOps\u5de5\u7a0b\u5e2b\u3001\u8cc7\u5b89\u7814\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7kyis",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u677e\u5c71\u5340",
+                    "periodDesc": "2\u5e74\u4ee5\u4e0a",
+                    "edu": "\u5c08\u79d1\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "1a2x6bkavd",
+            "job_count": 1
+        },
+        {
+            "custName": "\u5275\u672a\u4f86\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u6d88\u8cbb\u6027\u96fb\u5b50\u7522\u54c1\u88fd\u9020\u696d",
+            "indcat": "\u96fb\u5b50\u7522\u54c1\u88fd\u9020\u696d\u3001\u96f2\u7aef\u670d\u52d9",
+            "custLink": "http://www.tronfuture.com",
+            "joblist": [
+                {
+                    "jobName": "[2023 \u7814\u767c\u66ff\u4ee3\u5f79] \u6578\u4f4d\u6676\u7247\u8a2d\u8a08\u5de5\u7a0b\u5e2b\uff08\u524d\u7aef\uff09 / Digital IC Design Engineer (Frontend)",
+                    "jobUrl": "//www.104.com.tw/job/75j1c",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u6708\u85aa70,000\u5143\u4ee5\u4e0a"
+                    ]
+                }
+            ],
+            "id": "1a2x6bkws1",
+            "job_count": 1
+        },
+        {
+            "custName": "\u7375\u901f\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5176\u5b83\u8edf\u9ad4\u53ca\u7db2\u8def\u76f8\u95dc\u696d",
+            "indcat": "\u534a\u5c0e\u9ad4IC\u8a2d\u8a08",
+            "custLink": "https://www.teletrx.com",
+            "joblist": [],
+            "id": "1a2x6bl2xn",
+            "job_count": 0
+        },
+        {
+            "custName": "NVIDIA_\u82f1\u5c6c\u7dad\u4eac\u7fa4\u5cf6\u5546\u8f1d\u9054\u7dad\u4eac\u80a1\u4efd\u6709\u9650\u516c\u53f8\u53f0\u7063\u5206\u516c\u53f8",
+            "industryDesc": "\u5176\u4ed6\u534a\u5c0e\u9ad4\u76f8\u95dc\u696d",
+            "indcat": "\u534a\u5c0e\u9ad4\u7522\u696d",
+            "custLink": "http://www.nvidia.com.tw",
+            "joblist": [],
+            "id": "1a2x6blraq",
+            "job_count": 0
+        },
+        {
+            "custName": "\u539f\u777f\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5176\u4ed6\u96fb\u5b50\u96f6\u7d44\u4ef6\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08",
+            "custLink": "",
+            "joblist": [],
+            "id": "1a2x6bltde",
+            "job_count": 0
+        },
+        {
+            "custName": "\u806f\u5408\u5831\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5176\u4ed6\u51fa\u7248\u696d",
+            "indcat": "\u5831\u7d19\u5ee3\u544a\u51fa\u7248\u696d",
+            "custLink": "http://www.udngroup.com",
+            "joblist": [],
+            "id": "1quaxzk",
+            "job_count": 0
+        },
+        {
+            "custName": "\u53f0\u7063\u5eb7\u5be7\u986f\u793a\u73bb\u7483\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u73bb\u7483\u53ca\u73bb\u7483\u88fd\u54c1\u88fd\u9020\u696d",
+            "indcat": "\u5149\u96fb\u73bb\u7483\u696d",
+            "custLink": "http://www.corning.com/tw/tc/index.aspx",
+            "joblist": [],
+            "id": "20kl6co",
+            "job_count": 0
+        },
+        {
+            "custName": "\u51cc\u7fa4\u96fb\u8166\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u7cfb\u7d71\u6574\u5408\u670d\u52d9\u696d",
+            "indcat": "\u8cc7\u8a0a\u670d\u52d9\u696d",
+            "custLink": "https://www.syscom.com.tw",
+            "joblist": [
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79-\u8edf\u9ad4\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/1x89f",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u842c\u83ef\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u6708\u85aa37,000\u5143\u4ee5\u4e0a"
+                    ]
+                }
+            ],
+            "id": "2a5ju40",
+            "job_count": 1
+        },
+        {
+            "custName": "Advantech_\u7814\u83ef\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u7cfb\u7d71\u6574\u5408\u670d\u52d9\u696d",
+            "indcat": "\u96fb\u8166\u7cfb\u7d71\u76f8\u95dc\u696d",
+            "custLink": "http://www.advantech.com.tw",
+            "joblist": [],
+            "id": "2d9ntmw",
+            "job_count": 0
+        },
+        {
+            "custName": "\u8ca1\u5718\u6cd5\u4eba\u570b\u5bb6\u540c\u6b65\u8f3b\u5c04\u7814\u7a76\u4e2d\u5fc3",
+            "industryDesc": "\u81ea\u7136\u79d1\u5b78\u7814\u767c\u696d",
+            "indcat": "\u8ca1\u5718\u6cd5\u4eba\u570b\u5bb6\u540c\u6b65\u8f3b\u5c04\u7814\u7a76\u4e2d\u5fc3",
+            "custLink": "http://www.nsrrc.org.tw/chinese/index.aspx",
+            "joblist": [],
+            "id": "2kmqv0o",
+            "job_count": 0
+        },
+        {
+            "custName": "\u9577\u5e9a\u91ab\u7642\u8ca1\u5718\u6cd5\u4eba\u9ad8\u96c4\u9577\u5e9a\u7d00\u5ff5\u91ab\u9662_\u7cbe\u795e\u79d1\u7cfb",
+            "industryDesc": "\u91ab\u9662",
+            "indcat": "\u91ab\u9662\u7642\u990a\u770b\u8b77\u696d",
+            "custLink": "",
+            "joblist": [],
+            "id": "3m0fsrl",
+            "job_count": 0
+        },
+        {
+            "custName": "\u601d\u9054\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "B02 \u534a\u5c0e\u9ad4\u76f8\u95dc\u696d",
+            "custLink": "https://www.star-quest.com",
+            "joblist": [],
+            "id": "5shuqf4",
+            "job_count": 0
+        },
+        {
+            "custName": "\u93a7\u777f\u5168\u7403\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u7db2\u969b\u7db2\u8def\u76f8\u95dc\u696d",
+            "indcat": "\u7db2\u8def\u901a\u8a0a\u8a2d\u5099\u3001\u96fb\u8166\u7cfb\u7d71\u7522\u696d\u3001\u7db2\u969b\u7db2\u8def\u7522\u696d",
+            "custLink": "http://www.armorxgt.com/",
+            "joblist": [],
+            "id": "5sz8yeg",
+            "job_count": 0
+        },
+        {
+            "custName": "Phison Electronics Corp_\u7fa4\u806f\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08\u696d",
+            "custLink": "http://www.phison.com",
+            "joblist": [],
+            "id": "5t7gcns",
+            "job_count": 0
+        },
+        {
+            "custName": "\u65b0\u8abc\u6574\u5408\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u5b89\u5168\u76e3\u63a7\u53ca\u8edf\u9ad4\u76f8\u95dc\u696d",
+            "custLink": "http://www.shinsoft.com.tw",
+            "joblist": [
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79",
+                    "jobUrl": "//www.104.com.tw/job/3gsvp",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u6708\u85aa42,000~50,000\u5143"
+                    ]
+                }
+            ],
+            "id": "5tfvgp4",
+            "job_count": 1
+        },
+        {
+            "custName": "Super Micro Computer, Inc._\u7f8e\u8d85\u5fae\u96fb\u8166\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u53ca\u5176\u9031\u908a\u8a2d\u5099\u88fd\u9020\u696d",
+            "indcat": "\u96fb\u5b50\u8cc7\u8a0a\u696d",
+            "custLink": "http://www.supermicro.com.tw/",
+            "joblist": [
+                {
+                    "jobName": "\u3010\u7814\u767c\u66ff\u4ee3\u5f79\u3011Front-End Web Developer-\u524d\u7aef\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/72b9y",
+                    "jobAddrNoDesc": "\u6843\u5712\u5e02\u516b\u5fb7\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\uff08\u53ef\u7814\u767c\u66ff\u4ee3\u5f79\uff09 Cyber Security \u8edf\u9ad4\u5de5\u7a0b\u5e2b\uff08\u8cc7\u5b89-\u81ea\u52d5\u5316\u6e2c\u8a66\uff09-TC20149",
+                    "jobUrl": "//www.104.com.tw/job/725uw",
+                    "jobAddrNoDesc": "\u6843\u5712\u5e02\u516b\u5fb7\u5340",
+                    "periodDesc": "5\u5e74\u4ee5\u4e0a",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\uff08\u53ef\u7814\u767c\u66ff\u4ee3\u5f79\uff09Java Software Design Engineer-TC21710",
+                    "jobUrl": "//www.104.com.tw/job/2b66f",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u4e2d\u548c\u5340",
+                    "periodDesc": "2\u5e74\u4ee5\u4e0a",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\uff08\u53ef\u7814\u767c\u66ff\u4ee3\u5f79\uff09 Cyber Security \u8edf\u9ad4\u5de5\u7a0b\u5e2b\uff08\u8cc7\u5b89-\u6a21\u7cca\u6e2c\u8a66\uff09-TC20690",
+                    "jobUrl": "//www.104.com.tw/job/6p5lh",
+                    "jobAddrNoDesc": "\u6843\u5712\u5e02\u516b\u5fb7\u5340",
+                    "periodDesc": "5\u5e74\u4ee5\u4e0a",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\uff08\u53ef\u7814\u767c\u66ff\u4ee3\u5f79\uff09 Cyber Security \u8edf\u9ad4\u5de5\u7a0b\u5e2b\uff08\u8cc7\u5b89-\u6ef2\u900f\u6e2c\u8a66\uff09-TC20691",
+                    "jobUrl": "//www.104.com.tw/job/725tx",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u4e2d\u548c\u5340",
+                    "periodDesc": "2\u5e74\u4ee5\u4e0a",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010\u7814\u767c\u66ff\u4ee3\u5f79\u3011Software Design Engineer\u8edf\u9ad4\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/72b9k",
+                    "jobAddrNoDesc": "\u6843\u5712\u5e02\u516b\u5fb7\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102022\u7814\u767c\u66ff\u4ee3\u5f79\u3011BMC Firmware Engineer BMC\u97cc\u9ad4\u5de5\u7a0b\u5e2b-\u4e2d\u548c/\u516b\u5fb7",
+                    "jobUrl": "//www.104.com.tw/job/7izna",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u4e2d\u548c\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "5uisvbc",
+            "job_count": 7
+        },
+        {
+            "custName": "\u7fa4\u5275\u5149\u96fb\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5149\u96fb\u7522\u696d",
+            "indcat": "\u5149\u96fb\u7522\u696d(TFT-LCD\u7814\u767c\u88fd\u9020)",
+            "custLink": "http://www.innolux.com",
+            "joblist": [],
+            "id": "5vox8tk",
+            "job_count": 0
+        },
+        {
+            "custName": "\u806f\u767c\u79d1\u6280\u96c6\u5718_\u9054\u767c\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08\u696d",
+            "custLink": "https://www.airoha.com",
+            "joblist": [],
+            "id": "5x2b0tk",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5408\u76c8\u5149\u96fb\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5149\u96fb\u7522\u696d",
+            "indcat": "\u4eba\u5de5\u667a\u6167\u5f71\u50cf\u8b58\u5225\u5404\u7a2e\u61c9\u7528",
+            "custLink": "http://www.hpbint.com",
+            "joblist": [],
+            "id": "5xifrgg",
+            "job_count": 0
+        },
+        {
+            "custName": "\u8ca1\u5718\u6cd5\u4eba\u570b\u5bb6\u5be6\u9a57\u7814\u7a76\u9662",
+            "industryDesc": "\u653f\u5e9c\uff0f\u6c11\u610f\u6a5f\u95dc",
+            "indcat": "\u570b\u5bb6\u5be6\u9a57\u7814\u7a76\u9662",
+            "custLink": "http://www.narlabs.org.tw",
+            "joblist": [
+                {
+                    "jobName": "(\u79d1\u653f\u4e2d\u5fc3) \u7814\u767c\u66ff\u4ee3\u5f79\u4eba\u54e1(NLP\u6df1\u5ea6\u5b78\u7fd2\u5de5\u7a0b\u5e2b)",
+                    "jobUrl": "//www.104.com.tw/job/7ji26",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5927\u5b89\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u6708\u85aa38,600\u5143\u4ee5\u4e0a"
+                    ]
+                }
+            ],
+            "id": "76sfnje",
+            "job_count": 1
+        },
+        {
+            "custName": "\u806f\u83ef\u96fb\u4fe1\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5149\u96fb\u7522\u696d",
+            "indcat": "\u96fb\u4fe1\u670d\u52d9\u696d",
+            "custLink": "",
+            "joblist": [],
+            "id": "7e0a5vs",
+            "job_count": 0
+        },
+        {
+            "custName": "\u980e\u90a6\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "LCD\u9a45\u52d5IC\u5c01\u88dd\u6e2c\u8a66\u3001\u6372\u5e36\u5f0f\u5c01\u88dd\u8f09\u677f--\u5149\u96fb/\u534a\u5c0e\u9ad4\u696d",
+            "custLink": "http://www.chipbond.com.tw",
+            "joblist": [],
+            "id": "7ere2lk",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5357\u8302\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "\u534a\u5c0e\u9ad4\u76f8\u95dc\u696d",
+            "custLink": "http://www.chipmos.com.tw",
+            "joblist": [],
+            "id": "7eres28",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5947\u666f\u5149\u96fb\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08\u696d",
+            "custLink": "https://www.himax.com.tw/",
+            "joblist": [],
+            "id": "7eryo40",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5408\u6676\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "H-0\u534a\u5c0e\u9ad4\u76f8\u95dc\u7522\u696d",
+            "custLink": "http://www.waferworks.com",
+            "joblist": [
+                {
+                    "jobName": "\u3010\u5408\u6676\u4e4b\u661f\u30112022\u5e74\u7814\u767c\u66ff\u4ee3\u5f79\u7537 (\u78a9/\u535a\u58eb)",
+                    "jobUrl": "//www.104.com.tw/job/7esey",
+                    "jobAddrNoDesc": "\u6843\u5712\u5e02\u9f8d\u6f6d\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "7ewbe34",
+            "job_count": 1
+        },
+        {
+            "custName": "\u6631\u52dd\u8cc7\u8a0a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8cc7\u8a0a\u8edf\u9ad4\u670d\u52d9\u696d",
+            "custLink": "http://www.visualsoft.com.tw/",
+            "joblist": [],
+            "id": "7f01i0o",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5149\u74b0\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5149\u96fb\u7522\u696d",
+            "indcat": "\u5149\u96fb\u901a\u8a0a/\u534a\u5c0e\u9ad4/\u96fb\u5b50\u76f8\u95dc\u7522\u696d",
+            "custLink": "http://www.truelight.com.tw/",
+            "joblist": [],
+            "id": "7g3p180",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5168\u666f\u8edf\u9ad4\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8edf\u9ad4\u7814\u767c/\u7cfb\u7d71\u6574\u5408\u76f8\u95dc\u7522\u696d",
+            "custLink": "http://www.changingtec.com",
+            "joblist": [
+                {
+                    "jobName": "[111\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058]\u8cc7\u5b89/\u7db2\u5b89\u8edf\u9ad4\u5de5\u7a0b\u5e2b(\u53f0\u5317/\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/3ayuo",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u4e2d\u6b63\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "[111\u5e74\u7814\u767c\u66ff\u4ee3\u5f79\u9810\u8058]\u6df1\u5ea6\u5b78\u7fd2\u958b\u767c\u5de5\u7a0b\u5e2b(\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/71u98",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u5bf6\u5c71\u9109",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "[111\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058]\u5c08\u6848\u5de5\u7a0b\u5e2b(\u53f0\u5317/\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/6e4f3",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u4e2d\u6b63\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "[111\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058]\u5f71\u50cf\u8edf\u9ad4\u5de5\u7a0b\u5e2b(\u53f0\u5317/\u65b0\u7af9)",
+                    "jobUrl": "//www.104.com.tw/job/501et",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u5bf6\u5c71\u9109",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "7hzjbag",
+            "job_count": 4
+        },
+        {
+            "custName": "\u5bb6\u767b\u7cbe\u5bc6\u5de5\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "\u534a\u5c0e\u9ad4\u76f8\u95dc\u88fd\u9020\u696d",
+            "custLink": "https://www.gudeng.com/",
+            "joblist": [],
+            "id": "7jbxn20",
+            "job_count": 0
+        },
+        {
+            "custName": "\u51cc\u5de8\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5149\u96fb\u7522\u696d",
+            "indcat": "\u5149\u96fb\u7522\u696d",
+            "custLink": "http://www.giantplus.com.tw",
+            "joblist": [],
+            "id": "7jrmovk",
+            "job_count": 0
+        },
+        {
+            "custName": "\u701a\u5b87\u5f69\u6676\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5149\u96fb\u7522\u696d",
+            "indcat": "\u5149\u96fb\u7522\u696d",
+            "custLink": "https://www.hannstar.com/",
+            "joblist": [],
+            "id": "7k27b1c",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5049\u5eb7\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8cc7\u8a0a\u8edf\u9ad4\u670d\u52d9\u696d",
+            "custLink": "https://www.webcomm.com.tw",
+            "joblist": [],
+            "id": "7mdfomw",
+            "job_count": 0
+        },
+        {
+            "custName": "\u7cfb\u5fae\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u96fb\u8166\u8cc7\u8a0a\u670d\u52d9\u696d",
+            "custLink": "http://www.insyde.com",
+            "joblist": [],
+            "id": "7mzp948",
+            "job_count": 0
+        },
+        {
+            "custName": "\u539f\u76f8\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5176\u4ed6\u534a\u5c0e\u9ad4\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08",
+            "custLink": "http://www.pixart.com",
+            "joblist": [
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79/\u61c9\u5c46\u7562\u696d-\u6578\u4f4dIC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/303a8",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79/\u61c9\u5c46\u7562\u696d-\u985e\u6bd4IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/303a2",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79/\u61c9\u5c46\u7562\u696d-RFIC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/6rt01",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79/\u61c9\u5c46\u7562\u696d-\u6f14\u7b97\u6cd5\u5247\u958b\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/303ac",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "7n30ibs",
+            "job_count": 4
+        },
+        {
+            "custName": "\u806f\u767c\u79d1\u6280\u96c6\u5718_\u7acb\u9321\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC \u8a2d\u8a08\u696d",
+            "custLink": "http://www.richtek.com",
+            "joblist": [
+                {
+                    "jobName": "\u3010\u65b0\u9bae\u4eba\u5c08\u5340\u30112022\u7814\u767c\u66ff\u4ee3\u5f79/\u6b63\u8077\u9810\u8058-\u985e\u6bd4IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/6c151",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010\u65b0\u9bae\u4eba\u5c08\u5340\u30112022\u7814\u767c\u66ff\u4ee3\u5f79/\u6b63\u8077\u9810\u8058-\u6578\u4f4dIC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/6c154",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010\u65b0\u9bae\u4eba\u5c08\u5340\u30112022\u7814\u767c\u66ff\u4ee3\u5f79/\u6b63\u8077\u9810\u8058-\u985e\u6bd4\u7cfb\u7d71(\u96fb\u529b\u96fb\u5b50)\u61c9\u7528\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/5j6eo",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "7nhq1lk",
+            "job_count": 3
+        },
+        {
+            "custName": "\u946b\u5275\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08\u3001\u96fb\u8166\u9031\u908a\u3001\u96fb\u5b50\u76f8\u95dc\u3001\u534a\u5c0e\u9ad4\u76f8\u95dc\u3001\u591a\u5a92\u9ad4\u76f8\u95dc",
+            "custLink": "http://www.3system.com.tw",
+            "joblist": [],
+            "id": "7pam4d4",
+            "job_count": 0
+        },
+        {
+            "custName": "\u66dc\u63da\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u7cfb\u7d71\u6574\u5408\u670d\u52d9\u696d",
+            "indcat": "\u7cfb\u7d71\u6574\u5408/\u8cc7\u8a0a\u5b89\u5168\u9867\u554f\u696d",
+            "custLink": "http://www.aserve.com.tw",
+            "joblist": [],
+            "id": "7pnmvd4",
+            "job_count": 0
+        },
+        {
+            "custName": "\u54c8\u746a\u661f\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8cc7\u8a0a\u8edf\u9ad4\u670d\u52d9\u696d",
+            "custLink": "https://www.hamastar.com.tw",
+            "joblist": [],
+            "id": "7q9m5h4",
+            "job_count": 0
+        },
+        {
+            "custName": "\u83ef\u82d3\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "B20 \u8edf\u9ad4\u76f8\u95dc\u696d",
+            "custLink": "http://www.flowring.com",
+            "joblist": [
+                {
+                    "jobName": "\u8edf\u9ad4\u5de5\u7a0b\u5e2b-\u7814\u767c\u66ff\u4ee3\u5f79",
+                    "jobUrl": "//www.104.com.tw/job/3dwzk",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u6708\u85aa38,000~50,000\u5143"
+                    ]
+                }
+            ],
+            "id": "7qv2jsw",
+            "job_count": 1
+        },
+        {
+            "custName": "\u6607\u9054\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u88ab\u52d5\u96fb\u5b50\u5143\u4ef6\u88fd\u9020\u696d",
+            "indcat": "\u901a\u8a0a\u96f6\u7d44\u4ef6\u88fd\u9020\u696d",
+            "custLink": "http://www.umt-tw.com",
+            "joblist": [
+                {
+                    "jobName": "[\u7814\u767c\u66ff\u4ee3\u5f79]RF\u5fae\u6ce2\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/350i0",
+                    "jobAddrNoDesc": "\u57fa\u9686\u5e02\u4e03\u5835\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "7t52gbk",
+            "job_count": 1
+        },
+        {
+            "custName": "\u7fa4\u5149\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u53ca\u5176\u9031\u908a\u8a2d\u5099\u88fd\u9020\u696d",
+            "indcat": "\u96fb\u5b50\u96f6\u7d44\u4ef6\u985e/\u5149\u96fb\u76f8\u95dc\u7522\u696d",
+            "custLink": "http://www.chicony.com.tw/",
+            "joblist": [],
+            "id": "9mjl874",
+            "job_count": 0
+        },
+        {
+            "custName": "\u4ec1\u5bf6\u96fb\u8166\u5de5\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u53ca\u5176\u9031\u908a\u8a2d\u5099\u88fd\u9020\u696d",
+            "indcat": "\u8cc7\u8a0a\u96fb\u5b50\u696d",
+            "custLink": "https://www.compal.com/",
+            "joblist": [
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79_PB0401 \u611f\u61c9\u5668\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/3bq21",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u6708\u85aa42,000~46,000\u5143"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PA0201 NB\u786c\u9ad4\u8a2d\u8a08\u5de5\u7a0b\u5e2b(\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/3l7r1",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PA0301 \u6a5f\u69cb\u8a2d\u8a08\u5de5\u7a0b\u5e2b(\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/2dlit",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PA0439 Chromebook\u8edf\u9ad4\u958b\u767c\u5de5\u7a0b\u5e2b(\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/4nmdy",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PB0403 \u96fb\u6e90\u958b\u767c\u5de5\u7a0b\u5e2b (\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/6vsxq",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PB0304 EMC\u96fb\u78c1\u76f8\u5bb9\u5de5\u7a0b\u5e2b/\u9ad8\u7d1a\u5de5\u7a0b\u5e2b(\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/6vsxx",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PB0206 RF\u5de5\u7a0b\u5e2b(\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/6vsy4",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PB0104 \u4f3a\u670d\u5668\u71b1\u6d41Thermal\u5de5\u7a0b\u5e2b(\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/6tlg7",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u6708\u85aa36,000~60,000\u5143"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PA0405 NB\u8edf\u9ad4\u8a2d\u8a08\u5de5\u7a0b\u5e2b-BIOS",
+                    "jobUrl": "//www.104.com.tw/job/2le1s",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PA0420 NB\u97cc\u9ad4\u5de5\u7a0b\u5e2b(\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/2dlu5",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79_PA0313 \u8eca\u96fb\u7522\u54c1\u6a5f\u69cb\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/44pcr",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "1\u5e74\u4ee5\u4e0a",
+                    "edu": "\u5c08\u79d1",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PB0230 \u611f\u6e2c\u7814\u767c\u5de5\u7a0b\u5e2b(\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/6g1kd",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PB0108 \u71b1\u6d41Thermal \u5de5\u7a0b\u5e2b(\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/6vsxo",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PA0306 \u4f3a\u670d\u5668\u6a5f\u69cb\u8a2d\u8a08\u5de5\u7a0b\u5e2b(\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/48ndq",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PB0110 \u7d50\u69cb\u6700\u4f73\u5316\u8a2d\u8a08\u8207\u6578\u503c\u5206\u6790\u5de5\u7a0b\u5e2b(\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/2dm30",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u3010112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u3011PB0501 \u7522\u54c1\u8a2d\u8a08\u5e2b(\u5167\u6e56)",
+                    "jobUrl": "//www.104.com.tw/job/2zuer",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u5167\u6e56\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "9qzgnew",
+            "job_count": 16
+        },
+        {
+            "custName": "\u53f0\u7063\u7a4d\u9ad4\u96fb\u8def\u88fd\u9020\u80a1\u4efd\u6709\u9650\u516c\u53f8(\u53f0\u7a4d\u96fb)",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "\u6676\u5713\u88fd\u9020\u670d\u52d9",
+            "custLink": "http://www.tsmc.com.tw",
+            "joblist": [
+                {
+                    "jobName": "2023 \u9810\u8058\u66a8\u7814\u767c\u66ff\u4ee3\u5f79",
+                    "jobUrl": "//www.104.com.tw/job/7os9s",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "a5h92m0",
+            "job_count": 1
+        },
+        {
+            "custName": "\u65fa\u5b8f\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u534a\u5c0e\u9ad4\u7814\u767c\u8a2d\u8a08\u3001\u88fd\u9020\u3001\u884c\u92b7",
+            "custLink": "http://www.macronix.com",
+            "joblist": [
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79 - \u88fd\u7a0b\u6574\u5408\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7ce4k",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058 - \u524d\u77bb\u6280\u8853\u5143\u4ef6\u53ca\u65b0\u88fd\u7a0b\u6280\u8853\u7814\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/2qcly",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058 - \u524d\u77bb\u8edf\u9ad4\u3001\u97cc\u9ad4\u7814\u767c\u5de5\u7a0b\u5e2b/\u7814\u7a76\u54e1",
+                    "jobUrl": "//www.104.com.tw/job/5mqe7",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79 - \u5143\u4ef6\u7814\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7p8n0",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79 - \u88fd\u7a0b\u6574\u5408\u7814\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7p8n1",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79-12\u540b\u6676\u5713\u5ee0\u534a\u5c0e\u9ad4\u88fd\u7a0b\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/3sdfp",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79-\u534a\u5c0e\u9ad4\u5148\u9032\u6a5f\u53f0\u8a2d\u5099\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/3sdfs",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79-\u534a\u5c0e\u9ad4\u5ee0\u52d9\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/6x8io",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058 - \u6578\u4f4dIC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/4825u",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79 - \u4eba\u5de5\u667a\u6167\u7d71\u8a08\u5206\u6790/\u5927\u6578\u64da\u5206\u6790\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/6bxi5",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79 - \u7522\u54c1\u6e2c\u8a66\u7a0b\u5f0f\u958b\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7c42c",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058 - \u71df\u904b\u61c9\u7528\u7cfb\u7d71\u958b\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7c4ar",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058 - \u88fd\u7a0b\u6a21\u7d44\u958b\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7q36m",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79 - \u7522\u54c1\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7q38t",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058 - \u97cc\u9ad4\u7814\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/6uahm",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058 - \u6574\u5408/\u9ad8\u58d3\u5143\u4ef6\u958b\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/70tk3",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79 - CAD\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/70tsb",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058 - \u8cc7\u8a0a\u5b89\u5168\u958b\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/70tu3",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058 - \u985e\u6bd4IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7bygb",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u7814\u767c\u66ff\u4ee3\u5f79/\u9810\u8058 - \u96f2\u7aef\u61c9\u7528\u958b\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7q5ri",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "a5hi0dc",
+            "job_count": 20
+        },
+        {
+            "custName": "\u9e97\u81fa\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u53ca\u5176\u9031\u908a\u8a2d\u5099\u88fd\u9020\u696d",
+            "indcat": "\u96fb\u8166\u9031\u908a\u76f8\u95dc\u7522\u696d",
+            "custLink": "https://www.leadtek.com/cht/",
+            "joblist": [],
+            "id": "a97q9sg",
+            "job_count": 0
+        },
+        {
+            "custName": "\u53e1\u63da\u8cc7\u8a0a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8cc7\u8a0a\u8edf\u9ad4\u670d\u52d9\u696d",
+            "custLink": "https://www.gss.com.tw/",
+            "joblist": [],
+            "id": "aavnrjk",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5927\u7acb\u5149\u96fb\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5149\u5b78\u5668\u6750\u88fd\u9020\u696d",
+            "indcat": "\u5149\u5b78\u5149\u96fb\u88fd\u9020\u5546",
+            "custLink": "http://www.largan.com.tw",
+            "joblist": [],
+            "id": "absj6xs",
+            "job_count": 0
+        },
+        {
+            "custName": "\u4eac\u5143\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "IC\u5c01\u88dd/\u6e2c\u8a66\u76f8\u95dc\u696d",
+            "custLink": "https://www.kyec.com.tw",
+            "joblist": [],
+            "id": "ac88aaw",
+            "job_count": 0
+        },
+        {
+            "custName": "\u745e\u6631\u534a\u5c0e\u9ad4\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "\u7a4d\u9ad4\u96fb\u8def\u7522\u54c1\u7814\u767c\u8a2d\u8a08 (IC Design)",
+            "custLink": "https://www.realtek.com/",
+            "joblist": [
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u8077\u52d9-\u53ef\u6e2c\u8a66\u8a2d\u8a08(DFT)\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7q5l0",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u8077\u52d9-\u8a18\u61b6\u9ad4\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7q5l1",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u8077\u52d9-\u7cfb\u7d71\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7q5l2",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u8077\u52d9-\u5c04\u983b(RF)IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7q5l3",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u8077\u52d9-\u5be6\u9ad4\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7q5l4",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u8077\u52d9-\u6f14\u7b97\u6cd5\u958b\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7q5l6",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u8077\u52d9-\u6578\u4f4dIC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7q5l7",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u8077\u52d9-\u6578\u4f4dIC\u9a57\u8b49\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7q5le",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "112\u5e74\u5ea6\u7814\u767c\u66ff\u4ee3\u5f79\u8077\u52d9-\u985e\u6bd4IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7q5lg",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "aexwm9k",
+            "job_count": 9
+        },
+        {
+            "custName": "\u77fd\u683c\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "\u534a\u5c0e\u9ad4\u76f8\u95dc\u7522\u696d",
+            "custLink": "http://www.sigurd.com.tw",
+            "joblist": [
+                {
+                    "jobName": "[\u7814\u767c\u66ff\u4ee3\u5f79\u5c08\u5340]-\u6e2c\u8a66\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7bwu2",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u6e56\u53e3\u9109",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "[\u7814\u767c\u66ff\u4ee3\u5f79\u5c08\u5340]RD\u7814\u767c\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7bwuk",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u6771\u93ae",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "anzesfk",
+            "job_count": 2
+        },
+        {
+            "custName": "Trend Micro_\u8da8\u52e2\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8edf\u9ad4\u696d",
+            "custLink": "http://www.trendmicro.tw/",
+            "joblist": [],
+            "id": "apio4y0",
+            "job_count": 0
+        },
+        {
+            "custName": "\u4e9e\u65ed\u96fb\u8166\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u901a\u8a0a\u6a5f\u68b0\u5668\u6750\u76f8\u95dc\u696d",
+            "indcat": "\u96fb\u8166\u9031\u908a\u88fd\u9020\u696d",
+            "custLink": "http://www.askey.com.tw",
+            "joblist": [],
+            "id": "as8qqso",
+            "job_count": 0
+        },
+        {
+            "custName": "\u920a\u8c61\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u7db2\u969b\u7db2\u8def\u76f8\u95dc\u696d",
+            "indcat": "\u904a\u6232\u3001\u8edf\u9ad4\u76f8\u95dc\u7522\u696d",
+            "custLink": "http://www.igs.com.tw",
+            "joblist": [
+                {
+                    "jobName": "\u3010\u7814\u767c\u66ff\u4ee3\u5f79\u3011\u904a\u6232\u8edf\u9ad4\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/3jvhm",
+                    "jobAddrNoDesc": "\u65b0\u5317\u5e02\u4e94\u80a1\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u6708\u85aa30,000~60,000\u5143"
+                    ]
+                }
+            ],
+            "id": "asz1lzk",
+            "job_count": 1
+        },
+        {
+            "custName": "\u8000\u767b\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u901a\u8a0a\u6a5f\u68b0\u5668\u6750\u76f8\u95dc\u696d",
+            "indcat": "\u7121\u7dda\u901a\u8a0a\u7522\u696d\uff1a\u5929\u7dda\u8a2d\u8a08\u88fd\u9020\u3001\u5100\u5668\u8a2d\u5099\u4ee3\u7406\u92b7\u552e\u3001\u524d\u77bb\u6280\u8853\u7814\u767c",
+            "custLink": "http://www.auden.com.tw/",
+            "joblist": [],
+            "id": "atv7sfk",
+            "job_count": 0
+        },
+        {
+            "custName": "\u8a0a\u9023\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5176\u5b83\u8edf\u9ad4\u53ca\u7db2\u8def\u76f8\u95dc\u696d",
+            "indcat": "\u8edf\u9ad4\u958b\u767c\u8a2d\u8a08/\u7cfb\u7d71\u6574\u5408",
+            "custLink": "http://www.cyberlink.com",
+            "joblist": [],
+            "id": "ay3orts",
+            "job_count": 0
+        },
+        {
+            "custName": "\u92d0\u5bf6\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u6d88\u8cbb\u6027\u96fb\u5b50\u7522\u54c1\u88fd\u9020\u696d",
+            "indcat": "\u5bec\u983b\u7db2\u8def\u7522\u54c1",
+            "custLink": "http://www.icbn.com.tw/",
+            "joblist": [
+                {
+                    "jobName": "2022\u5e74\u7814\u767c\u66ff\u4ee3\u5f79-\u7db2\u901a\u7522\u54c1\u8edf\u97cc\u9ad4\u7814\u767c",
+                    "jobUrl": "//www.104.com.tw/job/49ezb",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u6708\u85aa36,000~62,000\u5143"
+                    ]
+                },
+                {
+                    "jobName": "2022\u5e74\u7814\u767c\u66ff\u4ee3\u5f79-\u7db2\u901a\u7522\u54c1\u786c\u9ad4\u7814\u767c",
+                    "jobUrl": "//www.104.com.tw/job/74909",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "b8gsjt4",
+            "job_count": 2
+        },
+        {
+            "custName": "\u5927\u780c\u570b\u969b\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "custLink": "http://www.mpower-tw.com",
+            "joblist": [],
+            "id": "bhh0fb4",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5b89\u9738\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08\u696d",
+            "custLink": "http://www.ambarella.com",
+            "joblist": [],
+            "id": "cl43nso",
+            "job_count": 0
+        },
+        {
+            "custName": "\u4e9e\u777f\u8cc7\u8a0a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u7cfb\u7d71\u6574\u5408\u670d\u52d9\u696d",
+            "indcat": "\u8edf\u9ad4\u958b\u767c\u8a2d\u8a08 / \u7cfb\u7d71\u6574\u5408 / EDA / \u96fb\u5b50\u8a2d\u8a08\u8f14\u52a9",
+            "custLink": "http://www.avery-design.com",
+            "joblist": [
+                {
+                    "jobName": "Verification IP Design Engineer (\u7814\u767c\u66ff\u4ee3\u5f79)",
+                    "jobUrl": "//www.104.com.tw/job/g5qt",
+                    "jobAddrNoDesc": "\u53f0\u5317\u5e02\u4e2d\u6b63\u5340",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "cntudeo",
+            "job_count": 1
+        },
+        {
+            "custName": "\u6676\u5fc3\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "CPU IP\u8a2d\u8a08",
+            "custLink": "http://www.andestech.com/",
+            "joblist": [],
+            "id": "cp2z8s0",
+            "job_count": 0
+        },
+        {
+            "custName": "\u529b\u667a\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "custLink": "http://www.upi-semi.com",
+            "joblist": [
+                {
+                    "jobName": "\u30102023\u7814\u767c\u66ff\u4ee3\u5f79\u3011\u985e\u6bd4IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/5pz1g",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "cusom54",
+            "job_count": 1
+        },
+        {
+            "custName": "\u6676\u7131\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "IC\u8a2d\u8a08",
+            "custLink": "https://www.amazingic.com",
+            "joblist": [
+                {
+                    "jobName": "\u7814\u767c\u5de5\u7a0b\u5e2b(\u985e\u6bd4IC)\u3010\u7814\u767c\u66ff\u4ee3\u5f79\u53ef\u3011",
+                    "jobUrl": "//www.104.com.tw/job/6sa4h",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "ESD\u7814\u767c\u5de5\u7a0b\u5e2b\u3010\u7814\u767c\u66ff\u4ee3\u5f79\u53ef\u3011",
+                    "jobUrl": "//www.104.com.tw/job/4byd9",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u7814\u767c\u5de5\u7a0b\u5e2b(\u985e\u6bd4IC-2)\u3010\u7814\u767c\u66ff\u4ee3\u5f79\u53ef\u3011",
+                    "jobUrl": "//www.104.com.tw/job/7kl76",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "cwfahe0",
+            "job_count": 3
+        },
+        {
+            "custName": "\u9686\u9054\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5149\u96fb\u7522\u696d",
+            "indcat": "\u5149\u96fb\u80fd\u6e90\u7522\u696d",
+            "custLink": "https://www.lextar.com/zh-TW",
+            "joblist": [],
+            "id": "cwxklio",
+            "job_count": 0
+        },
+        {
+            "custName": "\u82f1\u5c6c\u7dad\u4eac\u7fa4\u5cf6\u5546\u7965\u8302\u5149\u96fb\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8\u53f0\u7063\u5206\u516c\u53f8",
+            "industryDesc": "\u5149\u96fb\u7522\u696d",
+            "indcat": "\u5149\u96fb\u7522\u696d",
+            "custLink": "http://ao-inc.com/",
+            "joblist": [],
+            "id": "d1uwq80",
+            "job_count": 0
+        },
+        {
+            "custName": "\u795e\u6e96\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u901a\u8a0a\u6a5f\u68b0\u5668\u6750\u76f8\u95dc\u696d",
+            "indcat": "\u7db2\u901a\u79d1\u6280\u7522\u696d",
+            "custLink": "http://www.senaonetworks.com ",
+            "joblist": [],
+            "id": "d3a2s9k",
+            "job_count": 0
+        },
+        {
+            "custName": "\u795e\u76fe\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "\u5f9e\u4e8b \u6307\u7d0b\u8fa8\u8b58IC\u8a2d\u8a08\u3001\u5c16\u7aef\u8cc7\u6599\u5b89\u5168\u52a0\u3001\u89e3\u5bc6\u6280\u8853\u7814\u767c",
+            "custLink": "https://www.egistec.com/",
+            "joblist": [],
+            "id": "d8vx7bc",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5fb7\u5dde\u5100\u5668\u5de5\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "\u534a\u5c0e\u9ad4\u76f8\u95dc\u696d\uff1b\u985e\u6bd4\u534a\u5c0e\u9ad4",
+            "custLink": "http://careers.ti.com",
+            "joblist": [],
+            "id": "fcgywxs",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5104\u5149\u96fb\u5b50\u5de5\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5149\u96fb\u7522\u696d",
+            "indcat": "\u5149\u96fb\u7522\u696d",
+            "custLink": "http://talent.everlight.com/careers/",
+            "joblist": [],
+            "id": "fuu0th4",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5229\u51cc\u4f01\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u6d88\u8cbb\u6027\u96fb\u5b50\u7522\u54c1\u88fd\u9020\u696d",
+            "indcat": "B31 \u5149\u96fb\u901a\u4fe1\u5668\u6750\u76f8\u95dc\u696d",
+            "custLink": "http://www.meritlilin.com",
+            "joblist": [],
+            "id": "gm3pkg8",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5fb7\u7fa9\u8cc7\u8a0a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8cc7\u8a0a\u8edf\u9ad4\u670d\u52d9",
+            "custLink": "http://www.frog-jump.com/",
+            "joblist": [],
+            "id": "oe84aqo",
+            "job_count": 0
+        },
+        {
+            "custName": "\u5747\u83ef\u7cbe\u5bc6\u5de5\u696d\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "\u534a\u5c0e\u9ad4\u5c01\u88dd\u8a2d\u5099\u88fd\u9020\u696d",
+            "custLink": "http://www.gmmcorp.com.tw/",
+            "joblist": [
+                {
+                    "jobName": "\u81ea\u52d5\u5316\u5de5\u7a0b\u5e2b(\u7814\u767c\u66ff\u4ee3\u5f79\u53ef)_\u65b0\u7af9.\u7af9\u5317-\u53f0\u5143\u79d1\u6280\u5712\u5340(P20)",
+                    "jobUrl": "//www.104.com.tw/job/6t929",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u8996\u89ba\u5de5\u7a0b\u5e2b(\u7814\u767c\u66ff\u4ee3\u5f79\u53ef)_\u65b0\u7af9.\u7af9\u5317-\u53f0\u5143\u79d1\u6280\u5712\u5340(P20)",
+                    "jobUrl": "//www.104.com.tw/job/4pd84",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "2\u5e74\u4ee5\u4e0a",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u8996\u89ba\u5de5\u7a0b\u5e2b(\u7814\u767c\u66ff\u4ee3\u5f79\u53ef)_\u9ad8\u96c4(P20)",
+                    "jobUrl": "//www.104.com.tw/job/775gv",
+                    "jobAddrNoDesc": "\u9ad8\u96c4\u5e02\u6960\u6893\u5340",
+                    "periodDesc": "2\u5e74\u4ee5\u4e0a",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u81ea\u52d5\u5316\u5de5\u7a0b\u5e2b(\u7814\u767c\u66ff\u4ee3\u5f79\u53ef)_\u65b0\u7af9.\u7af9\u5317-\u53f0\u5143\u79d1\u6280\u5712\u5340(P30)",
+                    "jobUrl": "//www.104.com.tw/job/78rwj",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "oflnowg",
+            "job_count": 4
+        },
+        {
+            "custName": "\u4e0a\u9280\u5149\u96fb\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5149\u96fb\u7522\u696d",
+            "indcat": "\u5149\u96fb\u7522\u696d",
+            "custLink": "http://www.eterbright.tw/",
+            "joblist": [],
+            "id": "oh0tshk",
+            "job_count": 0
+        },
+        {
+            "custName": "\u611b\u76db\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "\u611f\u6e2c\u5668\u8a2d\u8a08(MEMS Design)",
+            "custLink": "http://www.isentek.com",
+            "joblist": [],
+            "id": "ojcn9cg",
+            "job_count": 0
+        },
+        {
+            "custName": "M31 Technology Corporation_\u5186\u661f\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "custLink": "https://www.m31tech.com",
+            "joblist": [],
+            "id": "omt3qew",
+            "job_count": 0
+        },
+        {
+            "custName": "\u4f86\u6bc5\u6578\u4f4d\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8cc7\u8a0a\u5b89\u5168\u8edf\u9ad4\u516c\u53f8",
+            "custLink": "https://www.lydsec.com/",
+            "joblist": [],
+            "id": "op5i3l4",
+            "job_count": 0
+        },
+        {
+            "custName": "\u8ca1\u5718\u6cd5\u4eba\u7d21\u7e54\u7522\u696d\u7d9c\u5408\u7814\u7a76\u6240",
+            "industryDesc": "\u5176\u4ed6\u5c08\u696d\u2571\u79d1\u5b78\u53ca\u6280\u8853\u696d",
+            "indcat": "\u8ca1\u5718\u6cd5\u4eba\u5c08\u696d\u7814\u767c\u6a5f\u69cb",
+            "custLink": "https://www.ttri.org.tw/",
+            "joblist": [],
+            "id": "v9z3w0",
+            "job_count": 0
+        },
+        {
+            "custName": "Synology_\u7fa4\u6689\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u591a\u529f\u80fd\u7db2\u8def\u5132\u5b58\u4f3a\u670d\u5668(NAS \u4f3a\u670d\u5668)\u7cfb\u7d71\u76f8\u95dc\u696d",
+            "custLink": "http://www.synology.com",
+            "joblist": [],
+            "id": "wekrf8o",
+            "job_count": 0
+        },
+        {
+            "custName": "Synopsys Taiwan Co., Ltd._\u53f0\u7063\u65b0\u601d\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8edf\u9ad4\u958b\u767c/\u8a2d\u8a08\u7cfb\u7d71\u6574\u5408\u76f8\u95dc\u7522\u696d",
+            "custLink": "https://www.synopsys.com/",
+            "joblist": [
+                {
+                    "jobName": "\u30102022\u9810\u8058/\u7814\u767c\u66ff\u4ee3\u5f79\u8077\u7f3a\u3011\u8edf\u9ad4\u7814\u767c\u985e: Software RD (C++/C is required)",
+                    "jobUrl": "//www.104.com.tw/job/7d9cy",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102022 \u9810\u8058/\u7814\u767c\u66ff\u4ee3\u5f79\u8077\u7f3a\u3011\u6280\u8853\u652f\u63f4\u985e:  Synthesis Application Engineer (\u6b61\u8fce\u5177\u5099CAD\u7d93\u9a57\u8005)(\u6b61\u8fce\u61c9\u5c46\u7562\u696d\u751f)",
+                    "jobUrl": "//www.104.com.tw/job/6xbau",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u5927\u5b78\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "wf2apbk",
+            "job_count": 2
+        },
+        {
+            "custName": "\u91c7\u5a01\u570b\u969b\u8cc7\u8a0a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u96fb\u8166\u8edf\u9ad4\u670d\u52d9\u696d",
+            "indcat": "\u8cc7\u8a0a\u670d\u52d9\u696d",
+            "custLink": "https://www.iscom.com.tw",
+            "joblist": [],
+            "id": "wfksusw",
+            "job_count": 0
+        },
+        {
+            "custName": "\u7a69\u61cb\u534a\u5c0e\u9ad4\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "\u534a\u5c0e\u9ad4\u6676\u5713\u88fd\u9020\u670d\u52d9\u696d",
+            "custLink": "http://www.winfoundry.com",
+            "joblist": [],
+            "id": "wi42ew8",
+            "job_count": 0
+        },
+        {
+            "custName": "\u529b\u65fa\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "IC\u8a2d\u8a08\u76f8\u95dc\u696d",
+            "indcat": "IC \u8a2d\u8a08\u696d",
+            "custLink": "https://www.ememory.com.tw",
+            "joblist": [
+                {
+                    "jobName": "\u30102022\u7814\u767c\u66ff\u4ee3\u5f79\u3011 Mixed-Mode\u96fb\u8def\u8a2d\u8a08\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/7fdue",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                },
+                {
+                    "jobName": "\u30102022\u7814\u767c\u66ff\u4ee3\u5f79\u3011\u985e\u6bd4IC\u8a2d\u8a08\u5de5\u7a0b\u5e2b Analog Circuit Design Engineer",
+                    "jobUrl": "//www.104.com.tw/job/7fduj",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u7e23\u7af9\u5317\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u5f85\u9047\u9762\u8b70"
+                    ]
+                }
+            ],
+            "id": "win519c",
+            "job_count": 2
+        },
+        {
+            "custName": "\u4e9e\u592a\u512a\u52e2\u5fae\u7cfb\u7d71\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u5176\u4ed6\u534a\u5c0e\u9ad4\u76f8\u95dc\u696d",
+            "indcat": "\u5fae\u6a5f\u96fb/\u534a\u5c0e\u9ad4",
+            "custLink": "http://www.apmsinc.com/",
+            "joblist": [
+                {
+                    "jobName": "\u7814\u767c\u66ff\u4ee3\u5f79\u5de5\u7a0b\u5e2b",
+                    "jobUrl": "//www.104.com.tw/job/2m6td",
+                    "jobAddrNoDesc": "\u65b0\u7af9\u5e02",
+                    "periodDesc": "\u7d93\u6b77\u4e0d\u62d8",
+                    "edu": "\u78a9\u58eb\u4ee5\u4e0a",
+                    "jobTags": [
+                        "\u6708\u85aa48,000~50,000\u5143"
+                    ]
+                }
+            ],
+            "id": "wj5mha0",
+            "job_count": 1
+        },
+        {
+            "custName": "\u65e5\u6708\u5149\u534a\u5c0e\u9ad4\u88fd\u9020\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "industryDesc": "\u534a\u5c0e\u9ad4\u88fd\u9020\u696d",
+            "indcat": "\u88fd\u9020\u696d",
+            "custLink": "https://www.aseglobal.com/ch",
+            "joblist": [],
+            "id": "yxcvx7k",
+            "job_count": 0
+        },
+        {
+            "custName": "\u8ca1\u5718\u6cd5\u4eba\u5370\u5237\u5275\u65b0\u79d1\u6280\u7814\u7a76\u767c\u5c55\u4e2d\u5fc3",
+            "industryDesc": "\u653f\u5e9c\uff0f\u6c11\u610f\u6a5f\u95dc",
+            "indcat": "\u6cd5\u4eba\u6a5f\u69cb",
+            "custLink": "http://www.ptri.org.tw",
+            "joblist": [],
+            "id": "zzb9p00",
+            "job_count": 0
+        }
+    ]
+}

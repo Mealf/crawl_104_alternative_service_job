@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+    <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    -->
+    <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/extras/jquery.tablesorter.pager.min.js"></script>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'jobs/theme.default.css' %}">
+    <script type="text/javascript" language="javascript" src="{% static 'jobs/sort_jobs.js' %}"></script>
+</head>
+
+<body>
+    <h1>更新日期: {{data_time}}</h1>
+    <br/>
+    
+    <table class="table table-hover tablesorter" id="mytable">
+        <thead class>
+            <tr>
+                <th style="width:5%"></th>
+                <th>公司名稱</th>
+                <th>行業</th>
+                <th>類別</th>
+                <th>研替職缺數量</th>
+            </tr>
+        </thead>
+        <tbody>
+            <div class="container" id="accordion">
+                {% for company in company_list.data %}
+                <tr>
+                    <td rowspan="2">
+                        <a href="#" class="toggle">+</a>
+                    </td>
+
+                    <td> <a href="{{company.custLink}}" target="_blank"> {{company.custName}} </td> 
+                    <td> {{company.industryDesc}} </td>
+                    <td> {{company.indcat}} </td>
+                    <td> {{company.job_count}} </td>
+                </tr>
+                <tr class="tablesorter-childRow">
+                    <td id="co-{{company.id}}" class="collapse" colspan="4">
+                        <table class="table table-striped">
+                                <tr>
+                                    <td>工作名稱</td>
+                                    <td>工作地點</td>
+                                    <td>經歷要求</td>
+                                    <td>學歷要求</td>
+                                    <td>薪資待遇</th>
+                                </tr>
+                                {% for job in company.joblist %}
+                                <tr>
+                                    <td><a href="{{job.jobUrl}}" target="_blank"> {{job.jobName}} </a></td>
+                                    <td> {{job.jobAddrNoDesc}} </td>
+                                    <td> {{job.periodDesc}} </td>
+                                    <td> {{job.edu}} </td>
+                                    <td> {{job.jobTags}} </td>
+                                </tr>
+                                {% endfor %}
+                        </table>
+                    </td>
+                </tr>
+                {% endfor %}
+            </div>            
+        </tbody>
+        
+
+    </table>
+
+    <div id="pager" class="pager">
+        <form>
+          <input type="button" value="&lt;&lt;" class="first" />
+          <input type="button" value="&lt;" class="prev" />
+          <input type="text" class="pagedisplay"/>
+          <input type="button" value="&gt;" class="next" />
+          <input type="button" value="&gt;&gt;" class="last" />
+          <select class="pagesize">
+            <option selected="selected" value="all">All Rows</option>
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="30">30</option>
+            <option value="40">40</option>
+          </select>
+        </form>
+      </div>
+    <script>
+        $(document).ready(function () {
+            $('#mytable').tablesorter();
+        });
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
