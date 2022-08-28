@@ -6,6 +6,7 @@ import json
 from time import sleep
 from static_vars import static_vars
 from bs4 import BeautifulSoup
+from os.path import exists
 
 
 @static_vars(session=requests.session())
@@ -31,14 +32,63 @@ def get_search_html(keyword, page)->str:
     return r.text
 
 
+@static_vars(company_list=None)
 def get_company_info(id: str)->dict:
+    if get_company_info.company_list is None:
+        get_company_info.company_list = load_company_info()
+    
+    
+    # search in file data
+    for company in get_company_info.company_list['data']:
+        if company['id'] == id:
+            return company
+
+    # not find in file, search website    
     url = f'https://www.104.com.tw/company/ajax/content/{id}'
     html = get_104_ajax(url)
 
     data = json.loads(html)
 
     key = ['custName', 'industryDesc', 'indcat', 'custLink']
-    return dict((k, data['data'][k]) for k in key)
+    company_info = dict((k, data['data'][k]) for k in key)
+    company_info['id'] = id
+
+    
+    add_company_info(company_info)
+    get_company_info.company_list['data'].append(company_info)
+
+    return company_info
+
+def load_company_info() -> dict:
+    dirname = os.path.dirname(__file__)
+    filename = os.path.join(dirname, 'company_info.json')
+
+    if not exists(filename):
+        data = {'data': []}
+        with open(filename, 'w') as f:
+            json.dump(data, f)
+    
+    with open(filename, 'r') as f:
+        data = json.load(f)
+    
+    return data
+
+
+def add_company_info(company_info: dict) -> None:
+    dirname = os.path.dirname(__file__)
+    filename = os.path.join(dirname, 'company_info.json')
+
+    # load file
+    with open(filename, 'r') as f:
+        data = json.load(f)
+
+    # updata data
+    data['data'].append(company_info)
+
+    # save file
+    with open(filename, 'w') as f:
+        json.dump(data, f)
+
 
 
 def get_total_page(keyword) -> int:
@@ -55,7 +105,6 @@ def add_job_to_company(id: str, job:dict, data: dict) -> None:
     # not in data
     company_info = get_company_info(id)
     company_info['joblist'] = [job]
-    company_info['id'] = id
 
     data['data'].append(company_info)
 

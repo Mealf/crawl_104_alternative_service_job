@@ -19,7 +19,7 @@ def rename_file()->None:
     filename = os.path.join(website_dir, '104_jobs.json')
 
     data_time = os.path.getmtime(filename)
-    data_time = datetime.fromtimestamp(data_time).strftime(r"%m%d")
+    data_time = datetime.fromtimestamp(data_time).strftime(r"%m%d-%H%M%S")
     new_filename = os.path.join(website_dir, f'104_jobs-{data_time}.json')
 
     os.rename(filename, new_filename)
